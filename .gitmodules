@@ -1,0 +1,3 @@
+[submodule "coin"]
+	path = coin
+	url = https://github.com/coin-net/coin.git

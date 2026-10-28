@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=COIN Wallet
+GenericName=Cryptocurrency wallet
+Comment=COIN Wallet
+Exec=coin-wallet-gui
+Type=Application
+Terminal=false
+Categories=Network;Qt;Finance;Office;
+Icon=coin-wallet-gui
+StartupNotify=true
